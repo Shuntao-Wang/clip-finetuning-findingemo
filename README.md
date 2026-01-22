@@ -54,6 +54,14 @@ The full dataset and trained model weights are not included due to size and lice
 
 This repository focuses on methodological transparency and reproducibility.
 
+The following files and directories are generated automatically during execution and are therefore not included in this repository:
+
+- `findingemo_subset_images/`
+- `findingemo_subset_labels.json`
+- `models/`
+
+They will be created automatically when running the scripts in the prescribed order.
+
 ## Customization
 
 This codebase is designed to be adaptable to dataset updates and different usage scenarios.
