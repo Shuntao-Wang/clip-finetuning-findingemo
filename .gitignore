@@ -215,7 +215,7 @@ findingemo_subset_images/
 findingemo_subset_labels.json
 
 # Trained CLIP models
-models/*.pt
+models/
 
 # Logs
 *.log
